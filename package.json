@@ -1,0 +1,23 @@
+{
+  "name": "dte-storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/builder-webpack5": "^6.4.9",
+    "@storybook/html": "^6.4.9",
+    "@storybook/manager-webpack5": "^6.4.9",
+    "drupal-twig-extensions": "1.0.0-alpha.6",
+    "node-polyfill-webpack-plugin": "^1.1.4",
+    "twing": "^5.1.0",
+    "twing-loader": "^4.0.0"
+  }
+}
