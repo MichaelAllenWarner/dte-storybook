@@ -12,7 +12,7 @@ module.exports = {
     config.experiments = {
       ...(config.experiments ? config.experiments : {}),
       topLevelAwait: true,
-    },
+    };
 
     // make twing-loader compatible with webpack5
     config.plugins.push(new NodePolyfillPlugin({

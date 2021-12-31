@@ -4,5 +4,5 @@ export const loaders = [
       const renderedStory = await originalStoryFn.render(args);
       return { renderedStory };
     }
-  }
+  },
 ];
