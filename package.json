@@ -15,7 +15,7 @@
     "@storybook/builder-webpack5": "^6.4.9",
     "@storybook/html": "^6.4.9",
     "@storybook/manager-webpack5": "^6.4.9",
-    "drupal-twig-extensions": "1.0.0-alpha.6",
+    "drupal-twig-extensions": "^1.0.0-beta.3",
     "node-polyfill-webpack-plugin": "^1.1.4",
     "twing": "^5.1.0",
     "twing-loader": "^4.0.0"
